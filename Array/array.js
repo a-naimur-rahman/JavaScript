@@ -23,3 +23,8 @@ for(let fruit of fruits){
     console.log(fruit);
 }
 console.log("\n");
+
+for(let fruit of fruits){
+    console.log(fruit);
+}
+console.log("\n");
